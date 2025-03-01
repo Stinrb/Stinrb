@@ -11,11 +11,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 🔹 SQL (CTEs, Window Functions, Data Cleaning & Transformation)  
 🔹 Power BI (DAX, Interactive Dashboards, Data Modeling)  
-🔹 Excel (Pivot Tables, VLOOKUP, Power Query)  
-
-📂 Projects  
-🚀 Sales Performance Dashboard (Power BI) – An interactive dashboard analyzing sales trends, customer behavior, and team performance.  
-📊 SQL Data Cleaning & Analysis – Data transformation, cleaning, and insights using SQL queries.  
+🔹 Excel (Pivot Tables, VLOOKUP, Power Query)    
 
 📫 Connect with Me  
 💼 www.linkedin.com/in/stinrb | 📧 justinrfb@gmail.com  
