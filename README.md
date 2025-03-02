@@ -1,4 +1,4 @@
-# 😑 Stinrb ![](https://komarev.com/ghpvc/?username=Stinrb)  
+# 😑 Justin Reinnard ![](https://komarev.com/ghpvc/?username=Stinrb)  
 🎓 Bachelor of Science in Psychology  
 📜 Licensed Psychometrician (2017)  
 
