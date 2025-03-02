@@ -18,9 +18,14 @@
 
 # 🐧 Github Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stinrb&layout=compact&theme=material-palenight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stinrb&layout=compact&theme=material-palenight&border_radius=0&hide_border=true)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stinrb&show_icons=true&theme=material-palenight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stinrb&show_icons=true&theme=material-palenight&border_radius=0&hide_border=true)
+
+### :hatching_chick: Github Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Stinrb&theme=chalk&no-bg=true&margin-w=10)
+
+
 
 
