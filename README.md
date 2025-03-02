@@ -16,3 +16,8 @@
 📫 Connect with Me  
 💼 www.linkedin.com/in/stinrb | 📧 justinrfb@gmail.com  
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stinrb&layout=compact)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stinrb&show_icons=true&theme=material-palenight)
