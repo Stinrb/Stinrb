@@ -21,3 +21,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stinrb&layout=compact)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stinrb&show_icons=true&theme=material-palenight)
+
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
+*.sql text
