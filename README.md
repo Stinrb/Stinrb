@@ -18,7 +18,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stinrb&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stinrb&layout=compact&langs_count=6&hide=html,css) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stinrb&show_icons=true&theme=material-palenight)
 
