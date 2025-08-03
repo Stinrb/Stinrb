@@ -4,7 +4,7 @@
 
 # 👤 About Me 
 - Transitioning into Data Analytics with a foundation in psychology and human behavior.  
-- Passionate about problem-solving, data-driven insights and storytelling through data.  
+- Driven by a strong interest in problem-solving, uncovering data-driven insights, and presenting findings through clear and meaningful storytelling.
 
 # 💻 Tech Stack  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)     
@@ -18,6 +18,7 @@
 
 ### :hatching_chick: Github Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Stinrb&theme=chalk&no-bg=true&no-frame=true&margin-w=10)
+
 
 
 
