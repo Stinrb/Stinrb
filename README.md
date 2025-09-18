@@ -4,7 +4,7 @@
 📜 Google Data Analytics Professional Certificate
 
 # 👤 About Me 
-- Data Analytics with a foundation in psychology and human behavior.  
+- Data Analyst with a foundation in psychology and human behavior.  
 - Driven by a strong interest in problem-solving, uncovering data-driven insights, and presenting findings through clear and meaningful storytelling.
 
 # 💻 Tech Stack  
@@ -19,6 +19,7 @@
 
 ### :hatching_chick: Github Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Stinrb&theme=chalk&no-bg=true&no-frame=true&margin-w=10)
+
 
 
 
